@@ -73,3 +73,32 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TheLastofUs/Content/
+TheLastofUs/Binaries/Win64/TheLastofUsEditor.target
+TheLastofUs/Intermediate/
+TheLastofUs/Saved/Config/CrashReportClient/UE4CC-Windows-CCCE866A4FD4E5484F24AC97130CC6EB/CrashReportClient.ini
+TheLastofUs/Saved/Logs/TheLastofUs-backup-2017.06.05-23.30.55.log
+TheLastofUs/Binaries/Win64/UE4Editor-TheLastofUs.pdb
+TheLastofUs/.gitignore.gitignore
+TheLastofUs/Binaries/Win64/UE4Editor-TheLastofUs-5043.pdb
+TheLastofUs/Binaries/Win64/UE4Editor-TheLastofUs-6853.pdb
+TheLastofUs/Binaries/Win64/UE4Editor.modules
+TheLastofUs/TheLastofUs.uproject
+TheLastofUs/Saved/AutoScreenshot.png
+TheLastofUs/Saved/Autosaves/PackageRestoreData.json
+TheLastofUs/Saved/Backup/Floor_400x400_2017-06-05-21-24-23.uasset
+TheLastofUs/Saved/Config/CrashReportClient/UE4CC-Windows-349FA0A64056E2F24BDD27BD62AB4E03/CrashReportClient.ini
+TheLastofUs/Saved/Config/Windows/Compat.ini
+TheLastofUs/Saved/Config/Windows/DeviceProfiles.ini
+TheLastofUs/Saved/Config/Windows/Editor.ini
+TheLastofUs/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+TheLastofUs/Saved/Config/Windows/Engine.ini
+TheLastofUs/Saved/Config/Windows/Game.ini
+TheLastofUs/Saved/Config/Windows/GameUserSettings.ini
+TheLastofUs/Saved/Config/Windows/Hardware.ini
+TheLastofUs/Saved/Config/Windows/Input.ini
+TheLastofUs/Saved/Config/Windows/Lightmass.ini
+TheLastofUs/Saved/Config/Windows/Paper2D.ini
+TheLastofUs/Saved/Config/Windows/PhysXVehicles.ini
+TheLastofUs/Saved/Config/Windows/Scalability.ini
+TheLastofUs/Saved/Logs/TheLastofUs.log
